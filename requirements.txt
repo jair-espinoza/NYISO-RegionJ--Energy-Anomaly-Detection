@@ -1,0 +1,14 @@
+pandas==2.3.0
+numpy==2.3.1
+matplotlib==3.10.3
+seaborn==0.13.2
+SQLAlchemy==2.0.36
+python-dotenv==1.1.1
+joblib==1.5.1
+requests==2.32.4
+openmeteo-requests==1.5.0
+requests-cache==1.2.1
+retry-requests==2.0.0
+scikit-learn==1.7.0
+xgboost==2.1.2
+tensorflow==2.17.0
